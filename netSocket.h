@@ -1,5 +1,5 @@
 // network socket class for versatile usage
-written by H.H. Yoo
+// written by H.H. Yoo
 
 #ifndef __NET_SOCKET_H__
 
