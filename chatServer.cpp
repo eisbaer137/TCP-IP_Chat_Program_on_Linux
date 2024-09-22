@@ -1,3 +1,7 @@
+// chat server
+// it receives messages from clients and show up messages to all clients via tcp/ip.
+// written by H.H. Yoo
+
 #include <stdio.h>
 #include <iostream>
 #include <pthread.h>
