@@ -1,3 +1,6 @@
+// network socket class for versatile usage
+written by H.H. Yoo
+
 #ifndef __NET_SOCKET_H__
 
 #define __NET_SOCKET_H__
